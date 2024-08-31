@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritheeshshetty
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Reactjs,Django.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internship.
 - 📫 Email: ritheeshshetty77@gmail.com
 
 <!---
