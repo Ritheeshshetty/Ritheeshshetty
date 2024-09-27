@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritheeshshetty
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Reactjs,Django.
+- 🌱 I’m currently learning Nextjs and Threejs.
 - 💞️ I’m looking for internship.
 - 📫 Email: ritheeshshetty77@gmail.com
 
