@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Ritheesh</h1>
 <p>A passionate full stack developer</p>
 
-#<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Where to find me</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritheesh-shetty-2b8929247) 
 
 # 💻 Tech Stack:
