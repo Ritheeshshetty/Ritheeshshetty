@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @Ritheeshshetty<br>👀 I’m interested in Web development<br>🌱 I’m currently learning Nextjs and Threejs.<br>💞️ I’m looking for internship.<br>📫 Email: ritheeshshetty77@gmail.com
+<h1>Hi 👋, I'm Ritheesh</h1>
+<p>A passionate full stack developer</p>
 
 
 ## 🌐 Socials:
